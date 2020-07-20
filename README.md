@@ -14,7 +14,7 @@ By filtering the data to show outcomes for the theater Kickstarters throughout t
 
 While the months of May and June also have the some of the highest counts of failed campaigns at 52 and 49, respectively, the data shows that the likelihood of succeeding after launching during these months is double than the likelihood of failing. 
 
-![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
+![](Theater_Outcomes_vs_ Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
