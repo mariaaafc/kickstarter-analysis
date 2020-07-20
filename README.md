@@ -19,9 +19,7 @@ While the months of May and June also have the some of the highest counts of fai
 
 By filtering the Kickstarter data to include only musicals, we can further breakdown rate of success for campaigns based on their crowdfunding goal. It is shown that the most successful campaigns had a goal of less than $1000, with a success rate of 76% across 186 total projects within that goal range. Following this, the data shows that as the goal amount increased, the counts of successful projects steadily decrease and counts of failed projects slowly increase. The probability of success and failure is 1:1 when the campaign goal is between $15000-19999. Following this, there is great fluctation in succeeded and failed campaigns rates. This was likely impacted by the smaller amounts of total projects requiring higher crowdfunding goals.
 
-![alt text](http://url/to/Screen Shot 2020-07-19 at 8.34.48 PM.png)
-
-![alt text](http://url/to/Screen Shot 2020-07-19 at 8.34.55 PM.png)
+![Outcomes Vs Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
